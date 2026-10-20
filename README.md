@@ -36,6 +36,6 @@ Use `student1` or `teacher1` with the password `Demo123!` after the backend has 
 
 - Backend repository: https://github.com/u6643015-cpu/wad_final_backend
 - Frontend repository: https://github.com/u6643015-cpu/wad_final_frontend
-- Deployed backend: REPLACE_WITH_BACKEND_URL
-- Deployed frontend: REPLACE_WITH_FRONTEND_URL
+- Deployed backend: https://wad-final-backend-two.vercel.app
+- Deployed frontend: https://wad-final-frontend-six.vercel.app
 
